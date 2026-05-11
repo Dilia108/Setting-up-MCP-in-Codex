@@ -1,4 +1,4 @@
-# Setting Up MCP in Codex
+# LAB | Setting Up MCP in Codex
 
 This notebook shows how to connect Codex to the LangChain documentation MCP server and query it with a LangChain agent.
 
@@ -15,9 +15,6 @@ This notebook shows how to connect Codex to the LangChain documentation MCP serv
 2. Install the notebook dependencies from the first cell.
 3. Run the notebook cells from top to bottom.
 
-## Notes
+## Evidence 
 
-- Keep `.env` out of git and never print its contents in the notebook.
-- If the query hangs, check network access to OpenAI and to `https://docs.langchain.com/mcp`.
-- A fresh kernel restart can help if cells were run out of order.
-
+* => Refer to `Lab notes.md`
